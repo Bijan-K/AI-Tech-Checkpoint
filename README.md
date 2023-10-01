@@ -35,7 +35,7 @@ There is undisputedly a lot of models and sevices for this type of tech, but in 
   - ComfyUI
 
 
-#### midjourney
+## midjourney
 probably the best service on this topic for now
 
 #### Dall-E 3
