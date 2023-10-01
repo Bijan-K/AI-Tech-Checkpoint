@@ -37,6 +37,11 @@ There is undisputedly a lot of models and sevices for this type of tech, but in 
 
 ## midjourney
 probably the best service on this topic for now
+<details>
+  <summary>testing details</summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details>
+
 
 #### Dall-E 3
 
