@@ -19,9 +19,9 @@ Also a lot of the information gathered here was extracted from the Bycloud youtu
 - [Image Restoration](#image-restoration)
 - [Generative LLMs](#generative-llms)
 - [Code Generation](#code-generation)
-- [Humaniod]()
-- [Autonomous Vehicles](#Autonomous)
-- [Extras]()
+- [Humaniod](#humaniod)
+- [Autonomous Vehicles](#autonomous-vehicles)
+- [Extras](#extras)
 
 ---
 
@@ -137,9 +137,8 @@ Games:
 
 [Back to Contents](#contents)
 
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-#### Vaudeville
+## Vaudeville
 
 You play as a detective and have to solve a murder case.
 
@@ -159,7 +158,7 @@ Has been in development more than Vaudeville, you are also a detective in this g
 
 [Back to Contents](#contents)
 
----
+
 # Image Restoration
 this is tech is about...
 
@@ -232,7 +231,8 @@ Claude
 Since most popular LLMs fit this role. this can be a bit tough.
 
 - Github Copilot
-- Bing Chat
+- ChatGpt's GPT-4
+- Bing Chat(Kinda)
 
 
 ---
