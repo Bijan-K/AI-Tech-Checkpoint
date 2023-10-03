@@ -98,18 +98,19 @@ ComfyUI is a powerful and modular stable diffusion GUI with a graph/nodes interf
 
 [Back to Contents](#contents)
 
+### Fooocus
+Fooocus is a Stable Diffusion interface that is designed to reduce the complexity of other SD interfaces like ComfyUI, by making the image generation process only require a single prompt. The interface uses a set of default settings that are optimized to give the best results when using SDXL models.
+
+- [github](https://github.com/lllyasviel/Fooocus)
+
+[Back to Contents](#contents)
+
+
 ## StyleDrop
 ![style](/Images/Text-to-Image/StyleDrop/StyleDrop.png)
 
 - [Paper](https://arxiv.org/abs/2306.00983)
 - [Github](https://github.com/zideliu/StyleDrop-PyTorch)
-
-[Back to Contents](#contents)
-
-### Fooocus
-Fooocus is a Stable Diffusion interface that is designed to reduce the complexity of other SD interfaces like ComfyUI, by making the image generation process only require a single prompt. The interface uses a set of default settings that are optimized to give the best results when using SDXL models.
-
-- [github](https://github.com/lllyasviel/Fooocus)
 
 [Back to Contents](#contents)
 
@@ -279,9 +280,6 @@ TortoiSe + RVC is the best
 Stands for Retrieval based Voice Conversion.This is probably behind the drake song, generally the best one. 
 - [Github](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 - [Tutorial](https://www.youtube.com/watch?v=hB7zFyP99CY)
-
-   
-
 
 ## TorToiSe
 - [Ecker.tech](https://git.ecker.tech/mrq/ai-voice-cloning) 
