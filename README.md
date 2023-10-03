@@ -1,4 +1,4 @@
-*this is still a draft and there a lot I have yet to add*
+*this is still a draft and there is still a lot I have yet to add*
 
 # Collection of AI Tech
 
