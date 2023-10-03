@@ -1,10 +1,14 @@
+*this is still a draft and there a lot I have yet to add*
+
 # Collection of AI Tech
 
 As there are better and better models coming out everyday, I made this list to atleast have a general grasp on it.
 
 This is a concise mostly personal collection of __the best__ AI technologies & researches that I have came accross. This list does not endorse anything or is competing with any other List. It simply wishes to be informative.
 
-Also a lot of the information gathered here was extracted from the Bycloud youtube channel(the G.O.A.T. on this topic). [Definitely check out his YT channel](https://www.youtube.com/@bycloudAI)
+Also a lot of the information gathered here was extracted from the Bycloud youtube channel(the G.O.A.T. on this topic). [Definitely check out his YT channel](https://www.youtube.com/@bycloudAI). 
+
+
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
@@ -13,8 +17,10 @@ Also a lot of the information gathered here was extracted from the Bycloud youtu
 - [Text to Image](#text-to-image)
 - [Text to Video](#text-to-video)
 - [Text to Music](#text-to-music)
-- [Text to Speach](#text-to-speach)
-  - [Voice Cloning](#voice-cloning)
+- [3D Image(NeRF + others)](#3d-images)
+- [Voice Cloning](#voice-cloning)
+- [Background Removal](#background-removal)
+- [Deep Fake](#deep-fake)
 - [AI NPCs(Speach to Speach)](#games-with-ai-npcs)
 - [Image Restoration](#image-restoration)
 - [Generative LLMs](#generative-llms)
@@ -26,116 +32,345 @@ Also a lot of the information gathered here was extracted from the Bycloud youtu
 ---
 
 # Text to Image
-There is undisputedly a lot of models and sevices for this type of tech, but in this I try to mention some of the better ones.
+There is undeniably a lot of models and sevices for this type of tech, but in this I try to mention some of the better ones.
 
-- Mid journey
-- DALL-E 3
-- Stable Diffusion
-  - Lora
-  - ComfyUI
+- [Mid journey](#midjourney)
+- [DALL-E 3](#dall-e-3)
+- [Stable Diffusion](#stable-diffusion)
+  - [Lora](#lora)
+  - [LyCORIS](#lycoris)
+  - [ComfyUI](#comfyuigui)
+  - [Fooocus](#fooocus)
+- [StyleDrop](#styledrop)
 
-
-## midjourney
-probably the best service on this topic for now
-<details>
-  <summary>testing details</summary>
-  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
-</details>
-
-
-#### Dall-E 3
-
-stablity Ai
-Stable Diffusion is a deep learning model that was released in 2022 and is primarily used to generate detailed images conditioned on text descriptions. It is based on diffusion techniques and is a text-to-image model. The model learns to generate images by gradually removing noise from a very noisy image, a process called “reverse diffusion”.
-[Blog](https://stability.ai/blog/stable-diffusion-sdxl-1-announcement)
-[Hugginface](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
-[Huggingface(Refiner)](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0)
-
-
-
-Lora 
-[Github](https://github.com/cloneofsimo/lora)
 [Back to Contents](#contents)
 
-ComfyUI(GUI)
-[Github](https://github.com/comfyanonymous/ComfyUI)
+## Midjourney
+![jounry](/Images//Text-to-Image/Midjourney/Midjourney-AI-Art.png)
+<details>
+  <summary>Details</summary>
+  <p>things like history, price, other stuff</p>
+</details>
+
+- [Website](https://midjourney.com/)
+- [discord](https://discord.gg/midjourney)
+
+[Back to Contents](#contents)
+
+## Dall-E 3
+![dalle](/Images/Text-to-Image/DallE3/Dall%20E%203.png)
+
+- [Website](https://openai.com/dall-e-3)
+
+[Back to Contents](#contents)
+
+
+## Stable Diffusion
+Stable Diffusion is a deep learning model that was released in 2022 and is primarily used to generate detailed images conditioned on text descriptions. It is based on diffusion techniques and is a text-to-image model. The model learns to generate images by gradually removing noise from a very noisy image, a process called “reverse diffusion”.
+
+![diffusion](/Images/Text-to-Image/stable-diffusion/stable-diffusion-feature-1160x680.jpg)
+
+- [Blog](https://stability.ai/blog/stable-diffusion-sdxl-1-announcement)
+- [Hugginface](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
+- [Huggingface(Refiner)](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0)
+
+[Back to Contents](#contents)
+
+### Lora 
+LoRA (Localized Representation Adjustment) is a file that alters Stable Diffusion outputs based on specific concepts like art styles, characters, or themes. With it, you can generate images with a particular style or subject by applying the LoRA to a compatible model.
+
+- [Github](https://github.com/cloneofsimo/lora)
+
+[Back to Contents](#contents)
+
+### LyCORIS
+LyCORIS: Lora beYond Conventional methods, Other Rank adaptation Implementations for Stable Diffusion.
+
+LyCORIS is a model designed to enhance digital content creation, particularly for VTubers and artists seeking to push creative boundaries. It is used in conjunction with Stable Diffusion, a generative image diffusion model, to generate images with a particular style or subject by applying the LyCORIS to a compatible model.
+
+- [Github](https://github.com/KohakuBlueleaf/LyCORIS/)
+
+[Back to Contents](#contents)
+
+### ComfyUI(GUI)
+ComfyUI is a powerful and modular stable diffusion GUI with a graph/nodes interface that allows you to design and execute advanced stable diffusion pipelines without needing to code anything. It is used in conjunction with Stable Diffusion, a generative image diffusion model, to generate images with a particular style or subject by applying the ComfyUI to a compatible model.
+- [Github](https://github.com/comfyanonymous/ComfyUI)
+
+[Back to Contents](#contents)
+
+## StyleDrop
+![style](/Images/Text-to-Image/StyleDrop/StyleDrop.png)
+
+- [Paper](https://arxiv.org/abs/2306.00983)
+- [Github](https://github.com/zideliu/StyleDrop-PyTorch)
+
+[Back to Contents](#contents)
 
 ### Fooocus
 Fooocus is a Stable Diffusion interface that is designed to reduce the complexity of other SD interfaces like ComfyUI, by making the image generation process only require a single prompt. The interface uses a set of default settings that are optimized to give the best results when using SDXL models.
 
-[github](https://github.com/lllyasviel/Fooocus)
+- [github](https://github.com/lllyasviel/Fooocus)
+
+[Back to Contents](#contents)
+
+
+
+
+--- 
+<!-- New Topic -->
+# Text to Video
+There are quite a few approaches to this, but they can be categorised to 3 segements for now.
+
+[Pure text to Video](#pure-text-to-video):
+- [runaway gen-2](#runaway-gen-2)
+- [Pika labs](#pika-labs)
+- [Zeroscope v2](#zeroscope-v2)
+- [animatediff](#animatediff)
+
+[img2img](#img2img):
+- [Ebsynth](#ebsynth)
+- [TemporalNet](#temporalnet2)
+- [CoDeF](#codef)
+- [TokenFlow](#tokenflow)
+- [Warp Diffusion](#warp-diffusion)
+- [DeForum](#deforum)
+
+[Media Manipluation](#media-manipulation):
+
+- [SimSw ap](#simswap)
+- [Face Fusion](#face-fusion)
+- [DaGAN](#depth-aware-generative-adversarial-network)
+- [SadTalker](#sadtalker)
+- [HeyGen](#heygen)
+
+[Back to Contents](#contents)
+
+# Pure Text to Video
+## Runaway gen-2
+- [Website](https://app.runwayml.com/login)
+## Pika labs
+- [Website](https://www.pika.art)
+## Zeroscope v2
+- [HuggingFace](https://huggingface.co/spaces/hysts/zeroscope-v2)
+
+## animatediff
+- [Page](https://animatediff.github.io)
+
+[Back to Contents](#contents)
+
 
 ---
-# Text to Video
+# img2img
 
-CogVideo
-[Github](https://github.com/THUDM/CogVideo)
+## Gen 1
+- [Page](https://research.runwayml.com/gen1)
 
+
+## ebsynth
+ideal for low frame rate videos
+- [Website](https://ebsynth.com)
+
+## TemporalNet2
+- [HuggingFace](https://huggingface.co/CiaraRowles/TemporalNet2)
+- [Reddit Guide](https://www.reddit.com/r/StableDiffusion/comments/11zeb17/tips_for_temporal_stability_while_changing_the/)
+
+## CoDeF
+- [Page](https://qiuyu96.github.io/CoDeF/)
+
+## Tokenflow
+not open source so who knows, if it is actually this  good.
+[Page](https://diffusion-tokenflow.github.io)
+
+## Warp Diffusion
+Closed source and not free. The results aren't bad tho.
+- [You have to pay someone like this guy](https://www.patreon.com/sxela)
+
+## Deforum
+- [Page](https://deforum.github.io/)
+
+[Back to Contents](#contents)
+
+
+---
+# Media Manipulation
+Things like deepfakes - face animations - face swaps. They are used to edit specific parts of the video.
+## SimSwap
+- [Github](https://github.com/neuralchen/SimSwap)
+
+## Face Fusion
+made by one of the creators of [roop](https://github.com/s0md3v/roop)
+- [Github](https://github.com/facefusion/facefusion)
+
+## SadTalker
+- [Github](https://github.com/OpenTalker/SadTalker#generating-3d-face-from-audio)
+
+## HeyGen
+- [Website](https://www.heygen.com)
+
+[Back to Contents](#contents)
 
 
 ---
 
 # Text to Music
 
-MusicGen
+- [MusicGen](#musicgen)
+- [MusicLM](#musiclm)
+- [SoundStream](#soundstream)
+
+[Back to Contents](#contents)
+ 
+
+## MusicGen
+![musicgen](/Images/Text-to-Music/MusicGen/MusicGen.png)
+
+- [paper](https://arxiv.org/abs/2306.05284)
+- [Page](https://ai.honu.io/papers/musicgen/)
+- [Github](https://github.com/facebookresearch/audiocraft)
+- [HuggingFace](https://huggingface.co/spaces/facebook/MusicGen)
+- [Colabs](https://github.com/camenduru/MusicGen-colab)
+
+[Back to Contents](#contents)
+
+## MusicLM
+![MusicLM](/Images/Text-to-Music/MusicLM/MusicLM.png)
+
+- [Paper](https://arxiv.org/abs/2301.11325)
+- [Project Page](https://google-research.github.io/seanet/musiclm/examples/)
+- [AI Test Kitchen](https://aitestkitchen.withgoogle.com/experiments/music-lm)
+- [ByCloud's extra Video on it](https://www.youtube.com/watch?v=2CUKU2iAzAs) 
 
 
+[Back to Contents](#contents)
 
-MusicLM
-[Paper](https://arxiv.org/abs/2301.11325)
-[Project Page] 
-[AI Test Kitchen] 
-[ByCloud's extra Video on it]   
+## SoundStream 
+RVQ origin paper
 
+- [Paper](https://arxiv.org/pdf/2107.03312.pdf)
+- [Website](https://blog.research.google/2021/08/soundstream-end-to-end-neural-audio.html)
+- [Github](https://github.com/wesbz/SoundStream)
 
-
-SoundStream (RVQ origin paper)
-
-[Paper]()
-
-
-
+[Back to Contents](#contents)
 
 ---
-# Text to Speach
-Again, do check out Bycloud's [channel](https://www.youtube.com/@bycloudAI).
+# 3D Images
 
-
-
-Online Services
-[Uberduck](https://uberduck.ai/)
-[Fakeyou](https://fakeyou.com/)
-[ElevenLabs](https://elevenlabs.io/)
-
-Has Local UI
-[RVC]
-probably behind the drake song, generally the best one.
-[RVC Tutorial]
-
-[Tacotron2]
-used for AI spongebob
-[Tacotron2 Tutorial]    
-[Ultimate Voice Remover 5]
-[TorToiSe] 
-[TorToiSe Tutorial]   
-[so-vits-svc 4.0]
-[so-vits-svc 4.0 Tutorial]   
-[so-vits-svc 5.0 (NEW)] 
+Yeah... maybe tomorrow or day after
 
 ---
 
 # Voice Cloning
+
+<!-- should change later -->
+Online Services(links):
+- [Uberduck](https://uberduck.ai/)
+- [Fakeyou](https://fakeyou.com/)
+- [ElevenLabs](https://elevenlabs.io/)(pretty good)
+
+Local:
+- [RVC](#rvc)
+- [Tacotron2](#tacotron2)
+- [so-vits-svc](#so-vits-svc)
+- [TortoiSe](#tortoise)
+TortoiSe + RVC is the best
+
+
+## RVC
+Stands for Retrieval based Voice Conversion.This is probably behind the drake song, generally the best one. 
+- [Github](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+- [Tutorial](https://www.youtube.com/watch?v=hB7zFyP99CY)
+
+   
+
+
+## TorToiSe
+- [Ecker.tech](https://git.ecker.tech/mrq/ai-voice-cloning) 
+- [Tutorial](https://www.youtube.com/watch?v=6sTsqSQYIzs)
+
+
+## so-vits-svc
+Stands for SoftVC VITS singing voice Conversion.
+
+- [so-vits-svc 4.0](https://github.com/voicepaw/so-vits-svc-fork)
+- [so-vits-svc 4.0 Tutorial](https://www.youtube.com/watch?v=tZn0lcGO5OQ)   
+- [so-vits-svc 5.0 (NEW)](https://github.com/PlayVoice/whisper-vits-svc)
+
+## Tacotron2
+Most likely used for AI spongebob videos.
+
+- [Github](https://github.com/BenAAndrew/Voice-Cloning-App)
+- [Tutorial](https://youtube.com/playlist?list=PLk5I7EvFL13GjBIDorh5yE1SaPGRG-i2l&si=yqEWu-rZM0EWGfyv) 
+
+---
+
+
+
+# Deep Fake
+This continuation of [Media Manipluation](#media-manipulation)
+
+
+#### First Order Motion Model
+Image Animation
+- [Paper](https://proceedings.neurips.cc/paper/2019/hash/31c0b36aef265d9221af80872ceb62f9-Abstract.html)
+- [Github](https://github.com/AliaksandrSiarohin/first-order-model)
+- [Website](https://aliaksandrsiarohin.github.io/first-order-model-website/)
+
+[Back to Contents](#contents)
+
+
+#### Thin-Plate Spline Motion Model
+Image Animation
+- [Paper](https://arxiv.org/abs/2203.14367)
+- [Code](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model)
+
+[Back to Contents](#contents)
+
+#### Depth-Aware Generative Adversarial Network
+Talking Head Video Generation
+- [Website](https://harlanhong.github.io/publications/dagan.html)
+- [Paper](https://arxiv.org/abs/2203.06605)
+- [Github](https://github.com/harlanhong/CVPR2022-DaGAN)
+- [Online Demo](https://huggingface.co/spaces/HarlanHong/DaGAN)
+
+[Back to Contents](#contents)
+
+#### MegaPortraits: One-shot Megapixel Neural Head Avatars
+closed source
+- [Paper](https://arxiv.org/abs/2207.07621)
+- [Website?(Github)](https://github.com/neeek2303/MegaPortraits)
+
+[Back to Contents](#contents)
+
+---
+# Background Removal
+
+## Robust Video Matting (RVM)
+
+- [Website](https://peterl1n.github.io/RobustVideoMatting/#/)
+- [Github](https://github.com/PeterL1n/RobustVideoMatting)
+- [Paper](https://arxiv.org/abs/2108.11515)
+
+
+## BackgroundMattingV2 (BGMv2)
+- [Website](https://grail.cs.washington.edu/projects/background-matting-v2/#/)
+- [Github](https://github.com/PeterL1n/BackgroundMattingV2)
+- [Paper](https://arxiv.org/abs/2012.07810)
+
+[Back to Contents](#contents)
+
 ---
 # Games with AI NPCs
 
 these are games that you have talk to NPCs in order to progress, the AIs consist of a LLM and TTS so they can be very interactive. In both of these games you play as a detective and have to slove the case by talking to NPCs and extracting information from them. NPCs have designate roles and their own back stories which influcences how they will repond to you.
+
+[Back to Contents](#contents)
 
 Games:
 
 - [Vaudeville](#vaudeville)
 - [Inworld Origins](#inworld-origins)
 
-[Back to Contents](#contents)
+
 
 
 ## Vaudeville
@@ -143,108 +378,152 @@ Games:
 You play as a detective and have to solve a murder case.
 
 ![image](</Images/Game(NPCs)/vaudeville.png>)
-[steam](https://store.steampowered.com/app/2240920/Vaudeville/)
+
+- [steam](https://store.steampowered.com/app/2240920/Vaudeville/)
 
 [Back to Contents](#contents)
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-#### Inworld Origins
+## Inworld Origins
 
 Has been in development more than Vaudeville, you are also a detective in this game, but the story is a quite different.
 
 ![image](</Images/Game(NPCs)/origins.jpg>)
-[steam](https://store.steampowered.com/app/2199920/Inworld_Origins/)
+
+- [steam](https://store.steampowered.com/app/2199920/Inworld_Origins/)
 
 [Back to Contents](#contents)
 
 
 # Image Restoration
-this is tech is about...
+Models for upscaling, adding color and reparing images
+
+- [Bringing old photos back to life](#bringing-old-photos-back-to-life)
+- [DeOldify](#deoldify)
+- [DFDNet](#dfdnet)
+- [CodeFormer](#codeformer)
+- [MyHeritage](#myheritage)
+- [Palette](#palette)
 
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
-#### Bringing Old Photos Back to Life
-best resoltration, also the back bone of myheritage
-Focusing on physcial damage. research done by mircosoft.
-![micro](/Images/Image-Restoration/Microsoft.jpg)
-[Github](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
+
+## Bringing Old Photos Back to Life
+
+Best resoltration, also the back bone of myheritage, focuses on physcial damage. research done by mircosoft.
+
+![microsoft](/Images/Image-Restoration/Microsoft.jpg)
+
+- [Github](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 
 [Back to Contents](#contents)
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-#### DeOldify
+## DeOldify
 best free colorizer
 
-[Github](https://github.com/jantic/DeOldify)
+- [Github](https://github.com/jantic/DeOldify)
 
 [Back to Contents](#contents)
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-#### DFDNet
+## DFDNet
 
 ![img1](/Images/Image-Restoration/DFDNet/Title.png)
 ![image](/Images/Image-Restoration/DFDNet/Screenshot%202023-09-24%20165924.png)
-[Github](https://github.com/csxmli2016/DFDNet)
+
+- [Github](https://github.com/csxmli2016/DFDNet)
 
 [Back to Contents](#contents)
+
+
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-CodeFormer
+## CodeFormer
 best free upscaler
-[Github](https://github.com/sczhou/CodeFormer)
+
+- [Github](https://github.com/sczhou/CodeFormer)
 
 [Back to Contents](#contents)
 
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-MyHeritage 
+## MyHeritage 
 image resotration / upscalers best paid
-[website](https://www.myheritage.com)
+
+- [website](https://www.myheritage.com)
 
 [Back to Contents](#contents)
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
-palette
+## Palette
 colorzation, best paid colorzation
-[Website](https://palette.fm)
+
+- [Website](https://palette.fm)
 
 [Back to Contents](#contents)
-![Alt text](image-1.png)
-[Fotor](https://www.fotor.com/features/background-remover)
 
 ---
 # Generative LLMs
 
-OpenAi's Chatgpt
-undisputed king of this domain, not much else needs to be said. I also didn't put bing chat here since its just a customized version of GPT4.
 
-Claude
-[Website](https://claude.ai/login)
+
+## Chat GPT(4 - MultiModal)
+undisputed king of this domain, not much else needs to be said.
+- [Website](https://chat.openai.com/auth/login)
+## LLama 2
+- [Website](https://ai.meta.com/llama/)
+## Claude
+- [Website](https://claude.ai/login)
+
+[Back to Contents](#contents)
 
 ---
 # Code Generation
 Since most popular LLMs fit this role. this can be a bit tough.
 
 - Github Copilot
-- ChatGpt's GPT-4
+- Chatgpt's GPT-4
 - Bing Chat(Kinda)
+- Code Llama2
+- Phind
+
+
+Phind
+[Website](https://www.phind.com)
 
 
 ---
 # Humaniod
+Boston dynamics
+Tesla
+Hanson robotics
+Ubtech robotics
 
+I'll put links to Clips of them later on.
 
 ---
 # Autonomous Vehicles
 
-Tesla
-this [channel](https://www.youtube.com/c/WholeMarsCatalog)
+## Tesla
+You can this [YT channel](https://www.youtube.com/c/WholeMarsCatalog) to see the tech in action.
 
+![tesla](/Images/Autonomous-Vehicles/Tesla/Tesla.jpg)
+
+## Waymo
+![waymo](/Images/Autonomous-Vehicles/waymo/waymo.jpg)
+
+## Cruise
+![cruise](/Images/Autonomous-Vehicles/Cruise/Cruise.jpg)
+
+
+
+[Back to Contents](#contents)
 
 
 
@@ -254,3 +533,4 @@ this [channel](https://www.youtube.com/c/WholeMarsCatalog)
 
 
 - [Tips for Temopral stability(stable diffusion)](https://www.reddit.com/r/StableDiffusion/comments/11zeb17/tips_for_temporal_stability_while_changing_the/)
+- [Ultimate Voice Remover 5](https://github.com/Anjok07/ultimatevocalremovergui)
