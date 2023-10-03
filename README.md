@@ -10,7 +10,7 @@ Also a lot of the information gathered here was extracted from the Bycloud youtu
 
 
 
-<hr style="height:3px;border-width:0;color:gray;background-color:gray">
+---
 
 # Contents
 
