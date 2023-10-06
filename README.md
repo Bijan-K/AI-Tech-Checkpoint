@@ -616,7 +616,7 @@ I'll put links to Clips of them later on.
 # Autonomous Vehicles
 
 ## Tesla
-You can this [YT channel](https://www.youtube.com/c/WholeMarsCatalog) to see the tech in action.
+You can check this [YT channel](https://www.youtube.com/c/WholeMarsCatalog) to see the tech in action.
 
 ![tesla](/Images/Autonomous-Vehicles/Tesla/Tesla.jpg)
 
