@@ -1,4 +1,6 @@
 # Text to Video
+SORA seems to very good, but we have to wait until offical lunch to really tell.
+
 There are quite a few approaches to this, but they can be categorised to 3 segements for now.
 
 [Pure text to Video](#pure-text-to-video):

@@ -16,6 +16,7 @@ Games:
 
 You play as a detective and have to solve a murder case.
 
+<img src="/Directories/Game-AI-NPCs/Images/vaudeville.png" alt="Vaudeville" width="300"/>
 ![image](</Images/Game(NPCs)/vaudeville.png>)
 
 - [steam](https://store.steampowered.com/app/2240920/Vaudeville/)
@@ -28,7 +29,7 @@ You play as a detective and have to solve a murder case.
 
 Has been in development more than Vaudeville, you are also a detective in this game, but the story is a quite different.
 
-![image](</Images/Game(NPCs)/origins.jpg>)
+<img src="/Directories/Game-AI-NPCs/Images/origins.jpg" alt="Vaudeville" width="300"/>
 
 - [steam](https://store.steampowered.com/app/2199920/Inworld_Origins/)
 

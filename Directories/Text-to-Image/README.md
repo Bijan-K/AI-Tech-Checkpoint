@@ -14,7 +14,8 @@ There is undeniably a lot of models and sevices for this type of tech, but in th
 [Back to Contents](#contents)
 
 ## Midjourney
-![jounry](/Directories/Text-to-Image/Images/Midjourney/Midjourney-AI-Art.png)
+<img src="/Directories//Text-to-Image/Images/Midjourney/Midjourney-AI-Art.png" alt="Vaudeville" width="300"/>
+
 <details>
   <summary>Details</summary>
   <p>things like history, price, other stuff</p>
@@ -26,7 +27,7 @@ There is undeniably a lot of models and sevices for this type of tech, but in th
 [Back to Contents](#contents)
 
 ## Dall-E 3
-![dalle](/Images/Text-to-Image/DallE3/Dall%20E%203.png)
+<img src="/Directories//Text-to-Image/Images/DallE3/Dall E 3.png" alt="Vaudeville" width="300"/>
 
 - [Website](https://openai.com/dall-e-3)
 
@@ -36,7 +37,7 @@ There is undeniably a lot of models and sevices for this type of tech, but in th
 ## Stable Diffusion
 Stable Diffusion is a deep learning model that was released in 2022 and is primarily used to generate detailed images conditioned on text descriptions. It is based on diffusion techniques and is a text-to-image model. The model learns to generate images by gradually removing noise from a very noisy image, a process called “reverse diffusion”.
 
-![diffusion](/Images/Text-to-Image/stable-diffusion/stable-diffusion-feature-1160x680.jpg)
+<img src="/Directories//Text-to-Image/Images/stable-diffusion/stable-diffusion-feature-1160x680.jpg" alt="Vaudeville" width="300"/>
 
 - [Blog](https://stability.ai/blog/stable-diffusion-sdxl-1-announcement)
 - [Hugginface](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
@@ -75,7 +76,7 @@ Fooocus is a Stable Diffusion interface that is designed to reduce the complexit
 
 
 ## StyleDrop
-![style](/Images/Text-to-Image/StyleDrop/StyleDrop.png)
+<img src="/Directories//Text-to-Image/Images/StyleDrop/StyleDrop.png" alt="Vaudeville" width="300"/>
 
 - [Paper](https://arxiv.org/abs/2306.00983)
 - [Github](https://github.com/zideliu/StyleDrop-PyTorch)

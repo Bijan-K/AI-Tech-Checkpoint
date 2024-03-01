@@ -15,7 +15,7 @@ Models for upscaling, adding color and reparing images
 
 Best resoltration, also the back bone of myheritage, focuses on physcial damage. research done by mircosoft.
 
-![microsoft](/Images/Image-Restoration/Microsoft.jpg)
+<img src="/Directories/Image-Restoration/Images/" alt="Vaudeville" width="300"/>
 
 - [Github](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 
@@ -26,6 +26,7 @@ Best resoltration, also the back bone of myheritage, focuses on physcial damage.
 ## DeOldify
 best free colorizer
 
+<img src="/Directories/Image-Restoration/Images/Deoldify/Deoldify.jpg" alt="Vaudeville" width="300"/>
 - [Github](https://github.com/jantic/DeOldify)
 
 [Back to Contents](#contents)
@@ -34,8 +35,10 @@ best free colorizer
 
 ## DFDNet
 
-![img1](/Images/Image-Restoration/DFDNet/Title.png)
-![image](/Images/Image-Restoration/DFDNet/Screenshot%202023-09-24%20165924.png)
+
+<img src="/Directories/Image-Restoration/Images/DFDNet/Title.png" alt="Vaudeville" width="300"/>
+<img src="/Directories/Image-Restoration/Images/DFDNet/exmaple.png" alt="Vaudeville" width="300"/>
+
 
 - [Github](https://github.com/csxmli2016/DFDNet)
 
