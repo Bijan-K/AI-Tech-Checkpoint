@@ -2,11 +2,10 @@
 
 # Collection of AI Tech
 
-As there are better and better models coming out everyday, I made this list to atleast have a general grasp on it. This list,also, will always be outdated. :thumbsup:
+As there are better and better models coming out everyday, I made this list to atleast have a general grasp on it. Also with the speed AI is progressing this list will always be outdated. :thumbsup:
 
-This is a concise mostly personal collection of __the best__ AI technologies & researches that I have came accross, which probably isn't much. 
+This is a concise mostly personal collection of __the best__ AI technologies & researches that I have came accross.
 
-Disclaimer:
 This list does not endorse anything or is competing with any other List. It simply wishes to be informative(for myself mostly). Also a lot of the information gathered here was extracted from the Bycloud youtube channel(the G.O.A.T. on this topic). [Definitely check out his YT channel](https://www.youtube.com/@bycloudAI). 
 
 
