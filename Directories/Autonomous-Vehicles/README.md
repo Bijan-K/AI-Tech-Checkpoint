@@ -3,11 +3,12 @@
 ## Tesla
 You can check this [YT channel](https://www.youtube.com/c/WholeMarsCatalog) to see the tech in action.
 
-![tesla](/Directories/Autonomous-Vehicles/Images/Tesla/Tesla.jpg)
+<img src="/Directories/Autonomous-Vehicles/Images/Tesla/Tesla.jpg" alt="Tesla" width="300"/>
 
 ## Waymo
-![waymo](/Directories/Autonomous-Vehicles/Images/waymo/waymo.jpg)
+<img src="/Directories/Autonomous-Vehicles/Images/waymo/waymo.jpg" alt="Waymo" width="300"/>
 
 ## Cruise
-![cruise](/Directories/Autonomous-Vehicles/Images/Cruise/Cruise.jpg)
+<img src="/Directories/Autonomous-Vehicles/Images/Cruise/Cruise.jpg" alt="Cruise" width="300"/>
+
 
