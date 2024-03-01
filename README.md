@@ -27,7 +27,7 @@ This list does not endorse anything or is competing with any other List. It simp
 - [Generative LLMs](#generative-llms)
 - [Code Generation](#code-generation)
 - [Humaniod](#humaniod)
-- [Autonomous Vehicles](#autonomous-vehicles)
+- [Autonomous Vehicles](/Directories/Autonomous-Vehicles/README.md)
 - [Extras](#extras)
 
 ---
