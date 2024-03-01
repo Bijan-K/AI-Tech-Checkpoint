@@ -2,12 +2,12 @@
 
 # Collection of AI Tech
 
-As there are better and better models coming out everyday, I made this list to atleast have a general grasp on it.
+As there are better and better models coming out everyday, I made this list to atleast have a general grasp on it. This list,also, will always be outdated. :thumbsup:
 
-This is a concise mostly personal collection of __the best__ AI technologies & researches that I have came accross. This list does not endorse anything or is competing with any other List. It simply wishes to be informative.
+This is a concise mostly personal collection of __the best__ AI technologies & researches that I have came accross, which probably isn't much. 
 
-Also a lot of the information gathered here was extracted from the Bycloud youtube channel(the G.O.A.T. on this topic). [Definitely check out his YT channel](https://www.youtube.com/@bycloudAI). 
-
+Disclaimer:
+This list does not endorse anything or is competing with any other List. It simply wishes to be informative(for myself mostly). Also a lot of the information gathered here was extracted from the Bycloud youtube channel(the G.O.A.T. on this topic). [Definitely check out his YT channel](https://www.youtube.com/@bycloudAI). 
 
 
 ---
@@ -31,89 +31,6 @@ Also a lot of the information gathered here was extracted from the Bycloud youtu
 - [Extras](#extras)
 
 ---
-
-# Text to Image
-There is undeniably a lot of models and sevices for this type of tech, but in this I try to mention some of the better ones.
-
-- [Mid journey](#midjourney)
-- [DALL-E 3](#dall-e-3)
-- [Stable Diffusion](#stable-diffusion)
-  - [Lora](#lora)
-  - [LyCORIS](#lycoris)
-  - [ComfyUI](#comfyuigui)
-  - [Fooocus](#fooocus)
-- [StyleDrop](#styledrop)
-
-[Back to Contents](#contents)
-
-## Midjourney
-![jounry](/Images//Text-to-Image/Midjourney/Midjourney-AI-Art.png)
-<details>
-  <summary>Details</summary>
-  <p>things like history, price, other stuff</p>
-</details>
-
-- [Website](https://midjourney.com/)
-- [discord](https://discord.gg/midjourney)
-
-[Back to Contents](#contents)
-
-## Dall-E 3
-![dalle](/Images/Text-to-Image/DallE3/Dall%20E%203.png)
-
-- [Website](https://openai.com/dall-e-3)
-
-[Back to Contents](#contents)
-
-
-## Stable Diffusion
-Stable Diffusion is a deep learning model that was released in 2022 and is primarily used to generate detailed images conditioned on text descriptions. It is based on diffusion techniques and is a text-to-image model. The model learns to generate images by gradually removing noise from a very noisy image, a process called “reverse diffusion”.
-
-![diffusion](/Images/Text-to-Image/stable-diffusion/stable-diffusion-feature-1160x680.jpg)
-
-- [Blog](https://stability.ai/blog/stable-diffusion-sdxl-1-announcement)
-- [Hugginface](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
-- [Huggingface(Refiner)](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0)
-
-[Back to Contents](#contents)
-
-### Lora 
-LoRA (Localized Representation Adjustment) is a file that alters Stable Diffusion outputs based on specific concepts like art styles, characters, or themes. With it, you can generate images with a particular style or subject by applying the LoRA to a compatible model.
-
-- [Github](https://github.com/cloneofsimo/lora)
-
-[Back to Contents](#contents)
-
-### LyCORIS
-LyCORIS: Lora beYond Conventional methods, Other Rank adaptation Implementations for Stable Diffusion.
-
-LyCORIS is a model designed to enhance digital content creation, particularly for VTubers and artists seeking to push creative boundaries. It is used in conjunction with Stable Diffusion, a generative image diffusion model, to generate images with a particular style or subject by applying the LyCORIS to a compatible model.
-
-- [Github](https://github.com/KohakuBlueleaf/LyCORIS/)
-
-[Back to Contents](#contents)
-
-### ComfyUI(GUI)
-ComfyUI is a powerful and modular stable diffusion GUI with a graph/nodes interface that allows you to design and execute advanced stable diffusion pipelines without needing to code anything. It is used in conjunction with Stable Diffusion, a generative image diffusion model, to generate images with a particular style or subject by applying the ComfyUI to a compatible model.
-- [Github](https://github.com/comfyanonymous/ComfyUI)
-
-[Back to Contents](#contents)
-
-### Fooocus
-Fooocus is a Stable Diffusion interface that is designed to reduce the complexity of other SD interfaces like ComfyUI, by making the image generation process only require a single prompt. The interface uses a set of default settings that are optimized to give the best results when using SDXL models.
-
-- [github](https://github.com/lllyasviel/Fooocus)
-
-[Back to Contents](#contents)
-
-
-## StyleDrop
-![style](/Images/Text-to-Image/StyleDrop/StyleDrop.png)
-
-- [Paper](https://arxiv.org/abs/2306.00983)
-- [Github](https://github.com/zideliu/StyleDrop-PyTorch)
-
-[Back to Contents](#contents)
 
 
 
@@ -613,22 +530,6 @@ Ubtech robotics
 I'll put links to Clips of them later on.
 
 ---
-# Autonomous Vehicles
-
-## Tesla
-You can check this [YT channel](https://www.youtube.com/c/WholeMarsCatalog) to see the tech in action.
-
-![tesla](/Images/Autonomous-Vehicles/Tesla/Tesla.jpg)
-
-## Waymo
-![waymo](/Images/Autonomous-Vehicles/waymo/waymo.jpg)
-
-## Cruise
-![cruise](/Images/Autonomous-Vehicles/Cruise/Cruise.jpg)
-
-
-
-[Back to Contents](#contents)
 
 
 
