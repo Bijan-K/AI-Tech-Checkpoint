@@ -1,9 +1,20 @@
 ---
 # Humaniod
-Tesla
-figure.ai
-Boston dynamics
-Hanson robotics
-Ubtech robotics
+- Tesla
+optimus
 
-I'll put links to Clips of them later on.
+- Figure ai
+figure1
+
+- Boston dynamics
+atlas
+
+- agility robotics
+digit robots
+they are sponored by amozon
+
+
+# 
+
+project grid by nividia
+

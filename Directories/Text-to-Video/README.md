@@ -3,6 +3,8 @@ SORA seems to very good, but we have to wait until offical lunch to really tell.
 
 There are quite a few approaches to this, but they can be categorised to 3 segements for now.
 
+- Sora
+
 [Pure text to Video](#pure-text-to-video):
 - [runaway gen-2](#runaway-gen-2)
 - [Pika labs](#pika-labs)
@@ -26,6 +28,11 @@ There are quite a few approaches to this, but they can be categorised to 3 segem
 - [HeyGen](#heygen)
 
 [Back to Contents](#contents)
+
+
+## Sora
+the best text to video
+
 
 # Pure Text to Video
 ## Runaway gen-2
