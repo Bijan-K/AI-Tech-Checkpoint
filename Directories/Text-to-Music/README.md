@@ -5,10 +5,10 @@
 - [SoundStream](#soundstream)
 
 [Back to Contents](#contents)
- 
 
 ## MusicGen
-![musicgen](/Images/Text-to-Music/MusicGen/MusicGen.png)
+
+<img src="/Directories/Text-to-Music/Images/MusicGen/MusicGen.png" alt="Vaudeville" width="300"/>
 
 - [paper](https://arxiv.org/abs/2306.05284)
 - [Page](https://ai.honu.io/papers/musicgen/)
@@ -19,17 +19,18 @@
 [Back to Contents](#contents)
 
 ## MusicLM
-![MusicLM](/Images/Text-to-Music/MusicLM/MusicLM.png)
+
+<img src="/Directories/Text-to-Music/Images/MusicLM/MusicLM.png" alt="Vaudeville" width="300"/>
 
 - [Paper](https://arxiv.org/abs/2301.11325)
 - [Project Page](https://google-research.github.io/seanet/musiclm/examples/)
 - [AI Test Kitchen](https://aitestkitchen.withgoogle.com/experiments/music-lm)
-- [ByCloud's extra Video on it](https://www.youtube.com/watch?v=2CUKU2iAzAs) 
-
+- [ByCloud's extra Video on it](https://www.youtube.com/watch?v=2CUKU2iAzAs)
 
 [Back to Contents](#contents)
 
-## SoundStream 
+## SoundStream
+
 RVQ origin paper
 
 - [Paper](https://arxiv.org/pdf/2107.03312.pdf)
