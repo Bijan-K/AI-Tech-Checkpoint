@@ -13,17 +13,17 @@ This list does not endorse anything or is competing with any other List. It simp
 
 # Contents
 
+- [Generative LLMs](/Directories/Generative-LLMs/README.md)
+- [Code Generation, assistants, etc](/Directories/Code-Generation/README.md)
+- [Games with AI NPCs(Speach to Speach)](/Directories/Game-AI-NPCs/README.md)
+- [Humaniod](/Directories/Humanoid/README.md)
+- [Voice Cloning](/Directories/Voice-Cloning/README.md)
 - [Text to Image](/Directories/Text-to-Image/README.md)
 - [Text to Video](/Directories/Text-to-Video/README.md)
 - [Text to Music](/Directories/Text-to-Music/README.md)
 - [3D Image(NeRF + others)](/Directories/Text-to-Video/README.md)
-- [Voice Cloning](/Directories/Voice-Cloning/README.md)
 - [Background Removal](/Directories/Background-removal/README.md)
-- [Games with AI NPCs(Speach to Speach)](/Directories/Game-AI-NPCs/README.md)
 - [Image Restoration](/Directories/Image-Restoration/README.md)
-- [Generative LLMs](/Directories/Generative-LLMs/README.md)
-- [Code Generation](/Directories/Code-Generation/README.md)
-- [Humaniod](/Directories/Humanoid/README.md)
 - [Autonomous Vehicles](/Directories/Autonomous-Vehicles/README.md)
 
 ---
