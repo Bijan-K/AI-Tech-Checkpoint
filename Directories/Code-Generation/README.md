@@ -1,4 +1,5 @@
 # Code Generation
+
 Since most popular LLMs fit this role. this can be a bit tough.
 
 > Models
@@ -21,8 +22,9 @@ Since most popular LLMs fit this role. this can be a bit tough.
 - [DevGpt](https://www.devgpt.com)
 
 > ???
+
 - [Devin?](https://x.com/cognition_labs/status/1767548763134964000?s=20)
 
-Welp. I don't think LLMs are suitable for logic but who knows what happens with enough scale. Would be funny to watch companies go brankrupted because they thought LLMs can actually reason tho.
+Welp. I don't think LLMs are suitable for logic but who knows what happens with enough scale. Would be funny to watch companies go bankrupted because they thought LLMs can actually reason tho.
 
 LLMs are token-predictors the best(after a lot of training) they can do is parrot someone else's logic in the form of text.

@@ -1,8 +1,11 @@
 ---
-# Humaniod
+
+# Humanoid
 
 ## Tesla
+
 Robot name : Optimus
+
 - [Video Demo](https://x.com/Tesla_Optimus/status/1734756150137225501?s=20)
 - [Website](https://www.tesla.com/AI)
 
@@ -10,23 +13,26 @@ Robot name : Optimus
 
 Robot name : Figure1
 OpenAI provides their cognitive capabilities
+
 - [Video Demo](https://x.com/Figure_robot/status/1767913661253984474?s=20)
 - [Website](https://www.figure.ai)
 
-## Boston Aynamics
+## Boston Dynamics
 
 Robot name : Atlas
+
 - [Video Demo](https://youtu.be/-e1_QhJ1EhQ?si=S_SGYXgLs-nbdSDl)
 - [Website](https://bostondynamics.com/atlas/)
 
-Should be said that until recently they hard coded they robots instead of using NN. They have started using RL in some of their newer robots that are not humaniods.
+Should be said that until recently they hard coded they robots instead of using NN. They have started using RL in some of their newer robots that are not humanoids.
 
 ## Agility Robotics
-Robot name : Digit 
-They are sponored by Amazon
+
+Robot name : Digit
+They are sponsored by Amazon
+
 - [Video Demos](https://www.youtube.com/@AgilityRobotics)
 - [Website](https://agilityrobotics.com)
-
 
 # Project GR00T by Nividia
 
