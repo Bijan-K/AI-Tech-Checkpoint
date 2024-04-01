@@ -25,6 +25,6 @@ Since most popular LLMs fit this role. this can be a bit tough.
 
 - [Devin?](https://x.com/cognition_labs/status/1767548763134964000?s=20)
 
-Welp. I don't think LLMs are suitable for logic but who knows what happens with enough scale. Would be funny to watch companies go bankrupted because they thought LLMs can actually reason tho.
+Welp, I don't think LLMs are suitable for complex logical tasks but who knows what happens with enough scale.
 
-LLMs are token-predictors the best(after a lot of training) they can do is parrot someone else's logic in the form of text.
+Currently LLMs are token-predictors, the best they can do is parrot someone else's logic in the form of text(after a lot of training). 
