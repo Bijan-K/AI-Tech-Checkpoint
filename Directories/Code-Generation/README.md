@@ -1,7 +1,5 @@
 # Code Generation
 
-Since most popular LLMs fit this role. this can be a bit tough.
-
 > Models
 
 - [Claude 3](https://www.anthropic.com/news/claude-3-family)
@@ -21,10 +19,10 @@ Since most popular LLMs fit this role. this can be a bit tough.
 - [TabNine](https://www.tabnine.com)
 - [DevGpt](https://www.devgpt.com)
 
-> ???
+> full on engineer???
 
-- [Devin?](https://x.com/cognition_labs/status/1767548763134964000?s=20)
+- [Devin](https://x.com/cognition_labs/status/1767548763134964000?s=20)
 
 Welp, I don't think LLMs are suitable for complex logical tasks but who knows what happens with enough scale.
 
-Currently LLMs are token-predictors, the best they can do is parrot someone else's logic in the form of text(after a lot of training). 
+Currently LLMs are token-predictors, the best they can do is parrot someone else's logic in the form of text(after a lot of training).

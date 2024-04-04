@@ -6,7 +6,8 @@ As there are better and better models coming out everyday, I made this list to a
 
 This is a concise mostly personal collection of **the best** AI technologies & researches(I will probably add more papers later) that I have came across.
 
-This list does not endorse anything or is competing with any other List. It simply wishes to be informative(for myself mostly). Also a lot of the information gathered here was extracted from the Bycloud youtube channel(the G.O.A.T. on this topic). [Definitely check out his YT channel](https://www.youtube.com/@bycloudAI).
+This list does not endorse anything or is competing with any other List. It simply wishes to be informative(for myself mostly). Also a lot of the information gathered here was extracted from the Bycloud youtube channel.[Definitely check out his YT channel](https://www.youtube.com/@bycloudAI). 
+
 
 ---
 
