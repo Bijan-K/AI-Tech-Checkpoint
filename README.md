@@ -8,6 +8,8 @@ This is a concise mostly personal collection of **the best** AI technologies & r
 
 This list does not endorse anything or is competing with any other List. It simply wishes to be informative(for myself mostly). Also a lot of the information gathered here was extracted from the Bycloud youtube channel.[Definitely check out his YT channel](https://www.youtube.com/@bycloudAI). 
 
+There is also an [AI News team on buttondown](https://buttondown.email/ainews) who make daily posts that summarizes all that has happened on AI discords/Twitters/reddits on that day. I recommend following them if you really want to keep up with what is going on. 
+
 
 ---
 
