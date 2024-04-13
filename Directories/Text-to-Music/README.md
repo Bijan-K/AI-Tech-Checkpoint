@@ -1,10 +1,18 @@
 # Text to Music
 
+- [Udio](#udio)
+
 - [MusicGen](#musicgen)
 - [MusicLM](#musiclm)
 - [SoundStream](#soundstream)
 
 [Back to Contents](#contents)
+
+
+## Udio
+see it for yourself, its amazing. it does not product masterpieces but it certainly could at one point.
+- [Post](https://twitter.com/udiomusic)
+
 
 ## MusicGen
 
