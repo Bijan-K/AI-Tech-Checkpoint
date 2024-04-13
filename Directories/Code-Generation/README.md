@@ -23,6 +23,11 @@
 
 - [Devin](https://x.com/cognition_labs/status/1767548763134964000?s=20)
 
-Welp, I don't think LLMs are suitable for complex logical tasks but who knows what happens with enough scale.
+Update:
+...They are also a OpenAI wrapper... lol
+
+---
+
+Welp, I don't think LLMs are suitable for complex logical tasks but who knows what happens with enough scale and honestly OpenAI is not an average company.
 
 Currently LLMs are token-predictors, the best they can do is parrot someone else's logic in the form of text(after a lot of training).
