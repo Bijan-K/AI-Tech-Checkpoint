@@ -1,19 +1,21 @@
-# > Generative LLMs
+# Generative LLMs
 
 
 [To open sourced models](#actually-open-sourced)
 
-## Claude 3
 
-Pretty much the best right now.
+## Chat GPT-4o
+
+Others are doomed if the lead is actually exponential lol
+
+they say the multi-modal token break through was in december 2023, pretty much making sure everyone else plays catch up.
+
+- [Website](https://chat.openai.com/auth/login)
+
+## Claude 3
 
 - [Webpage](https://www.anthropic.com/news/claude-3-family)
 
-## Chat GPT(4 - MultiModal)
-
-Claude 3 out performs GPT-4, well.. until they lobotomize it with safety or GPT-5 gets released.
-
-- [Website](https://chat.openai.com/auth/login)
 
 ## Mistral
 
@@ -21,7 +23,7 @@ They make really good open weight models that punch above their weight class.
 
 - [Website](https://mistral.ai)
 
-## LLama 2
+## LLama 3
 
 Meta's open weight model.
 
@@ -57,9 +59,7 @@ A more competent Google.
 
 - [Website](https://www.perplexity.ai)
 
-# >> Actually Open Sourced
-
-why open sourced? because they share more of their infrastructure so people can train them better. Such as dataset, code and method of tokenizing.
+# >> Open sourced + Code & data
 
 ## Pythia
 
