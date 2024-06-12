@@ -19,7 +19,7 @@
 - [TabNine](https://www.tabnine.com)
 - [DevGpt](https://www.devgpt.com)
 
-## "Swe"
+## GPT wrapper but runs commands on a PC
 
 - [Devin](https://x.com/cognition_labs/status/1767548763134964000?s=20)
 

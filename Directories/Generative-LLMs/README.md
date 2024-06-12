@@ -8,7 +8,7 @@
 
 Others are doomed if the lead is actually exponential lol
 
-they say the multi-modal token break through was in december 2023, pretty much making sure everyone else plays catch up.
+they say the multi-modal token break through was in december 2023, This pretty much makes sure everyone else plays catch up.
 
 - [Website](https://chat.openai.com/auth/login)
 
@@ -29,49 +29,50 @@ Meta's open weight model.
 
 - [Website](https://ai.meta.com/llama/)
 
-## Phi-2
+## Phi-3
 
-Microsoft's open weight model. Pretty good for its size.
+microsoft's SLM.
+Overfitted? yes. Still pretty good? yes.
 
-- [Hugging Face](https://huggingface.co/microsoft/phi-2)
+- [Hugging Face](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct)
 
 ---
 
 > There are other good models that I am going to just name here:
 
+- Qwen-2 by alibaba
 - nous-hermes-llama-2-7b
 - Solar-10.7b-v0.1
 - openchat-3.5-0106
-- Falcon
-- MPT
 
-# >> Wrappers
+# ChatGPT Wrappers
 
-## Phind
-
-Most for programming.
-
-- [website](https://www.phind.com/search?home=true)
-
-## Perpexity AI
+### Perpexity AI
 
 A more competent Google.
 
 - [Website](https://www.perplexity.ai)
 
-# >> Open sourced + Code & data
+### Phind
 
-## Pythia
+Most for programming.
+
+- [website](https://www.phind.com/search?home=true)
+
+
+# Open sourced + Code & data
+
+### Pythia
 
 - [Website](https://www.eleuther.ai)
 - [Github](https://github.com/EleutherAI/pythia)
 
-## LLM360(Amber-7B & CrystalCoder-7B)
+### LLM360(Amber-7B & CrystalCoder-7B)
 
 - [Website](https://www.llm360.ai)
 - [Github](https://github.com/LLM360)
 
-## Olmo by allenai
+### Olmo by allenai
 
 - [Website](https://allenai.org/olmo)
 - [Github](https://github.com/allenai/OLMo)
