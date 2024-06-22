@@ -1,8 +1,24 @@
 # Text to Video
 
+
+## Luma.ai
+try it out it can be pretty funny.
+
+- [Twitter](https://x.com/LumaLabsAI)
+- [website](https://lumalabs.ai/dream-machine)
+
+## Runway
+
+- [Website](https://x.com/runwayml)
+
+## KLING 
+
+Chinese video gen model, demos are cheap tho.
+- [twitter](https://x.com/Kling_ai)
+
 ## Sora
 
-First of all sora. OpenAI's model for text to video. It was announced as their immediate answer to Google Gemini.
+OpenAI's model for text to video. It was announced as their immediate answer to Google Gemini release.
 
 - [announcement by sam altman](https://x.com/sama/status/1758193609927721350?s=20)
   - [Example](https://x.com/sama/status/1758200420344955288?s=20)
@@ -10,11 +26,17 @@ First of all sora. OpenAI's model for text to video. It was announced as their i
   - [Example](https://x.com/sama/status/1758206825756000613?s=20)
 - [Marques Brownlee on sora](https://x.com/MKBHD/status/1763332752836047234?s=20)
 
-Cool thing about sora is that it simulates a reality. The neural network actually has some sort of understanding of how rules of physics are generally perceived.
 
-now that, this is out of the way.
 
-There are quite a few approaches to ttv, but here is 3 of them:
+
+
+
+
+
+---
+---
+
+## Legacy and Ideas:
 
 [Pure text to Video](#pure-text-to-video):
 

@@ -4,6 +4,8 @@ As there are better and better models coming out everyday, I made this list to a
 
 This is a concise mostly personal collection of some of the AI technologies & researches that I have came across. This list does not endorse anything or is competing with any other List. It simply wishes to be informative(and for myself mostly).
 
+Mood: Everybody is announcing models nobody is releasing them.
+
 
 ### Other resources
 

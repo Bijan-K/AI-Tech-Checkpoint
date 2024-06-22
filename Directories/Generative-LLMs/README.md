@@ -1,21 +1,16 @@
 # Generative LLMs
 
-
-[To open sourced models](#actually-open-sourced)
-
+- [LLM leaderboards](https://chat.lmsys.org/?leaderboard)
 
 ## Chat GPT-4o
 
-Others are doomed if the lead is actually exponential lol
-
-they say the multi-modal token break through was in december 2023, This pretty much makes sure everyone else plays catch up.
+They didn't release voice.... 
 
 - [Website](https://chat.openai.com/auth/login)
 
-## Claude 3
+## Claude 3.5 sonnet
 
-- [Webpage](https://www.anthropic.com/news/claude-3-family)
-
+- [Webpage](https://www.anthropic.com/news/claude-3-5-sonnet)
 
 ## Mistral
 
@@ -35,6 +30,10 @@ microsoft's SLM.
 Overfitted? yes. Still pretty good? yes.
 
 - [Hugging Face](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct)
+
+## QWEN-2
+
+
 
 ---
 

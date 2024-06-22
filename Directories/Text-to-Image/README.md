@@ -1,6 +1,14 @@
 # Text to Image
 
-There is undeniably a lot of models and services for this type of tech, but in this I try to mention some of the better ones.
+
+## civitai
+
+Open sourced model checkpoints and LoRAs for image gen, pretty neat if you ask me.
+
+- [website](https://civitai.com)
+
+
+# Other contents
 
 - [Mid journey](#midjourney)
 - [DALL-E 3](#dall-e-3)
