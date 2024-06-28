@@ -1,10 +1,8 @@
 # Generative LLMs
 
-- [LLM leaderboards](https://chat.lmsys.org/?leaderboard)
+You can check the LLM leaderboards [here.](https://chat.lmsys.org/?leaderboard)
 
 ## Chat GPT-4o
-
-They didn't release voice.... 
 
 - [Website](https://chat.openai.com/auth/login)
 
