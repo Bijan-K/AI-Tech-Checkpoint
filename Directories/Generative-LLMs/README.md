@@ -1,6 +1,10 @@
 # Generative LLMs
 
-You can check the LLM leaderboards [here.](https://chat.lmsys.org/?leaderboard)
+Leaderboards
+- [SEAL](https://scale.com/leaderboard)
+- [lmsys](https://chat.lmsys.org/?leaderboard)
+
+have to start adding chinese LLMs any time now...
 
 ## Chat GPT-4o
 
