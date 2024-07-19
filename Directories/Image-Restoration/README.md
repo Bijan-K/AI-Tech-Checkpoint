@@ -9,6 +9,9 @@ Models for up-scaling, adding color and repairing images
 - [MyHeritage](#myheritage)
 - [Palette](#palette)
 
+[Back to Contents](https://github.com/Bijan-K/AI-Tech-Checkpoint/blob/main/README.md)
+
+
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 ## Bringing Old Photos Back to Life

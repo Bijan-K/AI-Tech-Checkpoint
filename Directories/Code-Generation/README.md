@@ -2,8 +2,8 @@
 
 ## Models
 
-- [Chatgpt's GPT](https://openai.com/research/gpt-4)
-- [Claude 3](https://www.anthropic.com/news/claude-3-family)
+- [Claude 3.5 (KING)](https://claude.ai)
+- [Chatgpt's GPT](https://chatgpt.com)
 - [Code Llama](https://about.fb.com/news/2023/08/code-llama-ai-for-coding/)
 - [Phind](https://www.phind.com/search?home=true)
 - [Mixtal-8x7b-instruct-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
@@ -22,3 +22,6 @@
 ## GPT wrapper but runs commands on a PC
 
 - [Devin](https://x.com/cognition_labs/status/1767548763134964000?s=20)
+
+
+[Back to Contents](https://github.com/Bijan-K/AI-Tech-Checkpoint/blob/main/README.md)

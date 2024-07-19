@@ -4,25 +4,22 @@ Leaderboards
 - [SEAL](https://scale.com/leaderboard)
 - [lmsys](https://chat.lmsys.org/?leaderboard)
 
-have to start adding chinese LLMs any time now...
+[Back to Contents](https://github.com/Bijan-K/AI-Tech-Checkpoint/blob/main/README.md)
+
 
 ## Chat GPT-4o
 
 - [Website](https://chat.openai.com/auth/login)
 
-## Claude 3.5 sonnet
+## Claude 3.5 sonnet (best)
 
 - [Webpage](https://www.anthropic.com/news/claude-3-5-sonnet)
 
 ## Mistral
 
-They make really good open weight models that punch above their weight class.
-
 - [Website](https://mistral.ai)
 
 ## LLama 3
-
-Meta's open weight model.
 
 - [Website](https://ai.meta.com/llama/)
 
@@ -35,18 +32,21 @@ Overfitted? yes. Still pretty good? yes.
 
 ## QWEN-2
 
+- [Hugging Face](https://huggingface.co/Qwen/Qwen2-7B-Instruct)
 
+## DeepSeek
+
+- [Hugging Face](https://huggingface.co/deepseek-ai)
 
 ---
 
 > There are other good models that I am going to just name here:
 
-- Qwen-2 by alibaba
 - nous-hermes-llama-2-7b
 - Solar-10.7b-v0.1
 - openchat-3.5-0106
 
-# ChatGPT Wrappers
+# Wrappers
 
 ### Perpexity AI
 

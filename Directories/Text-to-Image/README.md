@@ -8,6 +8,9 @@ Open sourced model checkpoints and LoRAs for image gen, pretty neat if you ask m
 - [website](https://civitai.com)
 
 
+[Back to Main Page](https://github.com/Bijan-K/AI-Tech-Checkpoint/blob/main/README.md)
+
+
 # Other contents
 
 - [Mid journey](#midjourney)

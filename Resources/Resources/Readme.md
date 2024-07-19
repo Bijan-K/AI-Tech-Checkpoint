@@ -7,11 +7,15 @@
 
 
 
-- [This is also a nice channel, if you like someone explaining major papers to you](https://www.youtube.com/@YannicKilcher)
-
+- [This](https://www.youtube.com/@YannicKilcher)
+ is also a nice channel, if you like someone explaining major papers to you
+ 
 # Learning
 
 - [The GOAT](https://www.youtube.com/@AndrejKarpathy)
 - [Ilya's recommendations](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
 - [Gen ai handbook by William Brown](https://genai-handbook.github.io/)
 - [3blue1brown for math](https://www.3blue1brown.com)
+
+
+[Back to Contents](https://github.com/Bijan-K/AI-Tech-Checkpoint/blob/main/README.md)
