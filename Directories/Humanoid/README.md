@@ -1,6 +1,10 @@
 
 # Humanoid
 
+![image](/Directories/Humanoid/Images/humanoid.jpg)
+
+
+
 [Back to Contents](https://github.com/Bijan-K/AI-Tech-Checkpoint/blob/main/README.md)
 
 ## Tesla
