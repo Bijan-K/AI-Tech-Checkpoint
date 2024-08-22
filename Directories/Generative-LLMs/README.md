@@ -3,6 +3,8 @@
 Leaderboards
 - [SEAL](https://scale.com/leaderboard)
 - [lmsys](https://chat.lmsys.org/?leaderboard)
+- [Aider](https://aider.chat/docs/leaderboards/)
+ 
 
 [Back to Contents](https://github.com/Bijan-K/AI-Tech-Checkpoint/blob/main/README.md)
 
