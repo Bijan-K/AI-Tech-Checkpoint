@@ -1,6 +1,9 @@
 # Text to Image
 
 
+- [Leaderboards](https://www.imgenarena.ai/leaderboard)
+
+
 ## civitai
 
 Open sourced model checkpoints and LoRAs for image gen, pretty neat if you ask me.
