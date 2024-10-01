@@ -1,11 +1,12 @@
 # AI Tech Checkpoint
 
-As there are better and better models coming out everyday, I made this list to at least have a general grasp on the technology as a whole. Although with the speed AI is progressing this list will always be outdated lol.
+As there are better and better models coming out everyday, I made this list to at least have a general grasp on the technology as a whole.
 
 This is a concise mostly personal collection of some of the AI technologies & researches that I have came across. This list does not endorse anything or is competing with any other List. It simply wishes to be informative(and for myself mostly).
 
-Mood: Everybody is announcing models nobody is releasing them.
+### Amazing
 
+- [NotebookLM](https://notebooklm.google) 
 
 ### Other resources
 
