@@ -19,9 +19,14 @@
 - [TabNine](https://www.tabnine.com)
 - [DevGpt](https://www.devgpt.com)
 
-## GPT wrapper but runs commands on a PC
+## Software Engineering Assistant
 
-- [Devin](https://x.com/cognition_labs/status/1767548763134964000?s=20)
+- [Replit](https://replit.com)
+- [Devin](https://x.com/cognition_labs)
+
+## Research Assistant
+
+- [NotebookLM](https://notebooklm.google)
 
 
 [Back to Contents](https://github.com/Bijan-K/AI-Tech-Checkpoint/blob/main/README.md)
