@@ -4,9 +4,6 @@ As there are better and better models coming out everyday, I made this list to a
 
 This is a concise mostly personal collection of some of the AI technologies & researches that I have came across. This list does not endorse anything or is competing with any other List. It simply wishes to be informative(and for myself mostly).
 
-### Amazing
-
-- [NotebookLM](https://notebooklm.google) 
 
 ### Other resources
 
@@ -16,8 +13,8 @@ This is a concise mostly personal collection of some of the AI technologies & re
 ---
 
 # Contents
-- [Generative LLMs](/Directories/Generative-LLMs/README.md)
-- [Code Generation, assistants, etc](/Directories/Code-Generation/README.md)
+- [Generative LLM Models](/Directories/Generative-LLMs/README.md)
+- [Code Generation, Assistants, etc](/Directories/Code-Generation/README.md)
 - [Humanoid](/Directories/Humanoid/README.md)
 - [Voice Cloning](/Directories/Voice-Cloning/README.md)
 - [Text to Image](/Directories/Text-to-Image/README.md)
