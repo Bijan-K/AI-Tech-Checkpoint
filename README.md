@@ -9,6 +9,7 @@ This is a concise mostly personal collection of some of the AI technologies & re
 
 - [Learning and News](/Resources/Resources/Readme.md)
 - [Architectures](/Resources/Architectures/Readme.md)
+- [Emerging Tools](/Resources/Architectures/Readme.md)
 
 ---
 
