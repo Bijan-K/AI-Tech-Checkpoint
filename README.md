@@ -2,7 +2,9 @@
 
 As there are better and better models coming out everyday, I made this list to at least have a general grasp on the technology as a whole.
 
-This is a concise mostly personal collection of some of the AI technologies & researches that I have came across. This list does not endorse anything or is competing with any other List. It simply wishes to be informative(and for myself mostly).
+This is a concise mostly personal collection of some of the AI technologies & researches that I have came across. 
+
+This list simply wishes to be informative.
 
 
 ### Other resources
