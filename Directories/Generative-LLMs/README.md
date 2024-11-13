@@ -13,52 +13,48 @@ Leaderboards
 
 - [Website](https://chat.openai.com/auth/login)
 
-## Claude 3.5 sonnet (best)
+## Claude Sonnet 3.5 
 
-- [Webpage](https://www.anthropic.com/news/claude-3-5-sonnet)
+- [Website](https://claude.ai)
 
-## Mistral
+## Gemini 
 
-- [Website](https://mistral.ai)
+- [website](https://gemini.google.com/app)
 
-## LLama 3
+## LLama 3.1 (OSS)
 
-- [Website](https://ai.meta.com/llama/)
+- [Website](https://www.llama.com)
 
-## Phi-3
+## QWEN (OSS)
 
-microsoft's SLM.
-Overfitted? yes. Still pretty good? yes.
 
-- [Hugging Face](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct)
+- [Hugging Face](https://huggingface.co/Qwen)
 
-## QWEN-2
-
-- [Hugging Face](https://huggingface.co/Qwen/Qwen2-7B-Instruct)
-
-## DeepSeek
+## DeepSeek (OSS)
 
 - [Hugging Face](https://huggingface.co/deepseek-ai)
 
+
+## Hermes (llama finetune - OSS)
+
+- [Website](https://nousresearch.com/hermes3/)
+- [Hugging Face](https://huggingface.co/NousResearch)
+
+## Mistral (OSS)
+
+- [Website](https://mistral.ai)
+- [Hugging Face](https://huggingface.co/mistralai)
+
 ---
 
-> There are other good models that I am going to just name here:
-
-- nous-hermes-llama-2-7b
-- Solar-10.7b-v0.1
-- openchat-3.5-0106
 
 # Wrappers
 
 ### Perpexity AI
 
-A more competent Google.
-
 - [Website](https://www.perplexity.ai)
 
 ### Phind
-
-Most for programming.
 
 - [website](https://www.phind.com/search?home=true)
 
